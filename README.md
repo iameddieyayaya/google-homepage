@@ -1,6 +1,6 @@
 # google-homepage
 
-https://github.com/iameddieyayaya/google-homepage.git
+https://iameddieyayaya.github.io/google-homepage/
 
 TheOdingProject_GoogleHomePage
 
